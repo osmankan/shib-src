@@ -1,6 +1,6 @@
-# shib
+ shib
 
-node version dr.ovg dc 
+node version 
 ## 
 
 1. `yarn` `npm i`
